@@ -1,0 +1,21 @@
+services:
+  alon:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        REQUIREMENTS_FILE: ${ALON_REQUIREMENTS_FILE:-requirements-docker.txt}
+    container_name: alon-app
+    working_dir: /app
+    env_file:
+      - .env
+    environment:
+      PYTHONUNBUFFERED: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./config:/app/config
+    stdin_open: true
+    tty: true
+    command: ["/app/.venv/bin/python", "services/orchestrator/alon_orchestrator.py"]

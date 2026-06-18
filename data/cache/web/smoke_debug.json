@@ -1,0 +1,259 @@
+{
+  "payload": {
+    "query": "USD to AMD exchange rate",
+    "results": [
+      {
+        "title": "AMD to USD - Armenian Dram to US Dollar Conversion - Exchange Rates",
+        "snippet": "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with real-time data.",
+        "url": "https://www.exchange-rates.org/converter/amd-usd",
+        "source_name": "exchange-rates.org",
+        "date": null
+      },
+      {
+        "title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate - Xe",
+        "snippet": "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US Dollars and Armenian Drams from XE - the Currency Authority.",
+        "url": "https://www.xe.com/en/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+        "source_name": "xe.com",
+        "date": null
+      },
+      {
+        "title": "USD/AMD Currency Exchange Rate & News - Google Finance",
+        "snippet": "Get the latest United States Dollar to Armenian Dram ( USD / AMD ) real-time quote, historical performance, charts, and other financial information to help you make more informed trading and ...",
+        "url": "https://www.google.com/finance/quote/USD-AMD",
+        "source_name": "google.com",
+        "date": null
+      },
+      {
+        "title": "USD To AMD: Convert United States Dollar to Armenian Dram - Forbes",
+        "snippet": "Use our currency converter to find the live exchange rate between USD and AMD . Convert United States Dollar to Armenian Dram",
+        "url": "https://www.forbes.com/advisor/money-transfer/currency-converter/usd-amd/",
+        "source_name": "forbes.com",
+        "date": null
+      },
+      {
+        "title": "US dollars to Armenian drams Exchange Rate. Convert USD/AMD - Wise",
+        "snippet": "Convert USD to AMD with the Wise Currency Converter. Analyze historical currency charts or live US dollar / Armenian dram rates and get free rate alerts directly to your email.",
+        "url": "https://wise.com/gb/currency-converter/usd-to-amd-rate",
+        "source_name": "ise.com",
+        "date": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "AMD to USD - Armenian Dram to US Dollar Conversion - Exchange Rates",
+        "url": "https://www.exchange-rates.org/converter/amd-usd",
+        "publish_date": "2025-08-01",
+        "source_name": "exchange-rates.org",
+        "source_summary": {
+          "source_title": "AMD to USD - Armenian Dram to US Dollar Conversion - Exchange Rates",
+          "url": "https://www.exchange-rates.org/converter/amd-usd",
+          "summary_bullets": [
+            "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r...",
+            "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r...",
+            "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r..."
+          ],
+          "key_numbers": [],
+          "what_it_means": [],
+          "confidence": "low"
+        }
+      },
+      {
+        "title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate - Xe",
+        "url": "https://www.xe.com/en/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+        "publish_date": "2025-11-06",
+        "source_name": "xe.com",
+        "source_summary": {
+          "source_title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate - Xe",
+          "url": "https://www.xe.com/en/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+          "summary_bullets": [
+            "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US...",
+            "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US...",
+            "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US..."
+          ],
+          "key_numbers": [
+            "1",
+            "1",
+            "1"
+          ],
+          "what_it_means": [],
+          "confidence": "low"
+        }
+      }
+    ],
+    "engine": "ddgs",
+    "pipeline_version": 2,
+    "cache": {
+      "hit": false,
+      "age_sec": 0,
+      "path": "C:\\Users\\PC\\Documents\\AI\\ALON\\data\\cache\\web\\5d55dd73c0397856e4b1914f0fff7446d8bfa3a663f4465f5a09cd7ad8b9f674.json",
+      "ttl_sec": 0
+    },
+    "cache_hit": false,
+    "ts": 1771012664,
+    "metrics": {
+      "sources_fetched": 2,
+      "sources_checked": 2,
+      "sources_matched": 2,
+      "answer_found": true,
+      "chars_per_page": [
+        5672,
+        5131
+      ],
+      "chunks_per_page": [
+        3,
+        3
+      ],
+      "total_chunks": 6,
+      "llm_calls": 0,
+      "truncations": 0,
+      "timing_ms": {
+        "search": 2319,
+        "fetch": 57658,
+        "map": 0,
+        "reduce": 0,
+        "final": 4081,
+        "fetch_map_reduce": 57658
+      }
+    },
+    "final_answer": {
+      "answer_spoken": "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with real-time data.",
+      "answer_display": "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with real-time data.",
+      "sources": [
+        {
+          "title": "AMD to USD - Armenian Dram to US Dollar Conversion - Exchange Rates",
+          "url": "https://www.exchange-rates.org/converter/amd-usd"
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.exchange-rates.org/converter/amd-usd",
+      "title": "AMD to USD - Armenian Dram to US Dollar Conversion - Exchange Rates",
+      "snippet": "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with real-time data.",
+      "text": "Currency Converter USD Exchange Rates CAD Exchange Rates AUD Exchange Rates EUR Exchange Rates INR Exchange Rates GBP Exchange Rates MYR Exchange Rates SGD Exchange Rates MXN Exchange Rates CAD to USD CAD to INR GBP to INR MYR to SGD EUR to USD MXN to USD AUD to GBP GBP to CAD JPY to SGD AUD to JPY AUD to USD INR to USD AUD to INR GBP to USD INR to SGD JPY to USD GBP to USD EUR to INR COP to USD AUD to CAD Precious Metals Gold Price Silver Price Currency Converter USD Exchange Rates CAD Exchange Rates AUD Exchange Rates EUR Exchange Rates INR Exchange Rates GBP Exchange Rates MYR Exchange Rates SGD Exchange Rates MXN Exchange Rates CAD to USD CAD to INR GBP to INR MYR to SGD EUR to USD MXN to USD AUD to GBP GBP to CAD JPY to SGD AUD to JPY AUD to USD INR to USD AUD to INR GBP to USD INR to SGD JPY to USD GBP to USD EUR to INR COP to USD AUD to CAD Precious Metals Gold Price Silver Price Bahasa Indonesia Bahasa Malaysia Deutsch Español Français Italiano Nederlands Polski Português Tiếng Việt Русский 한국어 中文 日本語 繁體中文 ภาษาไทย More languages Exchange Rates Currency Converter AMD USD Armenian Drams to US Dollars AMD to USD: Convert Armenian Drams to US Dollars 1.0000 AMD = 0.002653 USD February 13, 2026 at 7:55 PM UTC Live AMD to USD Currency Converter Invert Armenian Dram to US Dollar Conversion Chart 1M 3M 6M 1Y 3Y 5Y This chart shows data from 2025-2-13 to 2026-2-12 . The average exchange rate over this period was 0.002599 US Dollars per Armenian Dram. What was the highest AMD to USD exchange rate in the last year? The high point for the AMD/USD rate was 0.002658 US Dollars per Armenian Dram on February 6, 2026. What was the lowest AMD to USD exchange rate in the last year? The low point was 0.002506 US Dollars per Armenian Dram on February 18, 2025. Is AMD up or down compared to USD in the last year? The AMD/USD rate is up +5.78% . This means the Armenian Dram has increased in value compared to the US Dollar. 1 AMD to USD Exchange Rates In the past 30 days , the AMD to USD exchange rate reached a high of 0.002658 and a low of 0.002617, with an average rate of 0.002642. The overall change in this period was +0.99% . Over the last 90 days , the AMD to USD exchange rate peaked at 0.002658 and dipped to a low of 0.002617, averaging 0.002629. The total change for this period was +1.37% . Conversion Rates Armenian Dram/US Dollar Conversion Rates US Dollar/Armenian Dram Armenian Dram to US Dollar Rates by Year To view rates between the Armenian Dram and the US Dollar for a particular year, click on one of the links below. 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 Popular AMD Conversions How to Convert Armenian Drams to US Dollars? You can convert Armenian Drams to US Dollars using the exchange-rates.org currency converter in just one easy step: Enter the amount of AMD you want to convert to USD in the box labeled \"Amount\". That's it! You’ll now see the value of the converted currency according to the most recent exchange rate. That's it! You’ll now see the value of the converted currency according to the most recent exchange rate. Frequently Asked Question about AMD to USD 1 Armenian Dram = 0.002653 US Dollars as of February 13, 2026 07:55 PM UTC. You can get live exchange rates between Armenian Drams and US Dollars using exchange-rates.org, which aggregates real-time forex data from the most authoritative sources. As of February 13, 2026 07:55 PM UTC, 100 Armenian Drams is equivalent to 0.2653 US Dollars. The exchange rate at this time is 0.002653 US Dollars per Armenian Dram. In the last 10 years, the highest rate from Armenian Drams to US Dollars was on February 6, 2026 when each Armenian Dram was worth 0.002658 US Dollars. The AMD and USD can be traded 24x5, starting from the time markets open on Monday mornings in Sydney until they close on Fridays at 5 PM in New York. Exchange rates can fluctuate by the minute while markets are open. However, the period between 3-4 PM GMT is often a good time to convert Armenian Drams to US Dollars because currency market liquidity and trading volume tend to be the highest during this time. Additionally, it's advisable to convert Armenian Drams to US Dollars early in the week if you need USD urgently. Executing a trade late in the week might result in a delayed settlement until the following week, as forex markets are closed on weekends. The US Dollar is currently stronger than the Armenian Dram, as 1 USD is equal to 376.94 AMD. Conversely, 1 AMD is worth 0.002653 USD. The Armenian Dram has increased +1.25% year-to-date against the US Dollar. Over the past 10 years, the Armenian Dram has appreciated +28.33% against the US Dollar. Consequently, the Armenian Dram has gained purchasing power compared to the US Dollar over the last decade. As of February 13, 2026 07:55 PM UTC, the best AMD to USD exchange rate is 0.002653 USD. This means that for every Armenian Dram you exchange, you will receive 0.002653 US Dollars. Why Trust Us? Exchange-rates.org has been a leading provider of currency quotes and precious metal prices for nearly 20 years. Our information is trusted by millions of users across the globe each month . We have been featured in some of the most prestigious financial publications in the world including Business Insider, Investopedia, Washington Post, and CoinDesk. We partner with leading data providers to bring you the latest and most accurate prices for all major currencies and precious metals. The currency and precious metals prices displayed on our site are aggregated from millions of data points and pass through proprietary algorithms in order to deliver timely and accurate prices to our users. Popular Conversions",
+      "publish_date": "2025-08-01",
+      "source_name": "exchange-rates.org",
+      "chunks": [
+        {
+          "len": 2500
+        },
+        {
+          "len": 2500
+        },
+        {
+          "len": 672
+        }
+      ],
+      "chunk_summaries": [
+        {
+          "chunk_takeaways": [
+            "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        },
+        {
+          "chunk_takeaways": [
+            "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        },
+        {
+          "chunk_takeaways": [
+            "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        }
+      ],
+      "source_summary": {
+        "source_title": "AMD to USD - Armenian Dram to US Dollar Conversion - Exchange Rates",
+        "url": "https://www.exchange-rates.org/converter/amd-usd",
+        "summary_bullets": [
+          "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r...",
+          "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r...",
+          "Use the AMD to USD currency converter at Exchange - Rates .org for accurate and up- to -date exchange rates . Easily convert Armenian Drams to US Dollars with r..."
+        ],
+        "key_numbers": [],
+        "what_it_means": [],
+        "confidence": "low"
+      },
+      "match": {
+        "ok": true,
+        "score": 0.75,
+        "reason": "lexical_match"
+      }
+    },
+    {
+      "url": "https://www.xe.com/en/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+      "title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate - Xe",
+      "snippet": "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US Dollars and Armenian Drams from XE - the Currency Authority.",
+      "text": "1 USD to AMD - Convert US Dollars to Armenian Drams Xe currency converter From To 1.00 USD = 376.95 078079 AMD Mid-market rate at 19:39 UTC We use the mid-market rate for our Converter. This is for informational purposes only. You won’t receive this rate when sending money. Login to view send rates Did you know you can send money abroad with Xe? USD to AMD exchange rates today USD to AMD chart See your 1 USD in motion. Our live USD to AMD chart tracks 12 months of real-time, mid-market rates and shows exactly how much your money was worth at any point in time. Want to know when the rate moves in your favor? Set a rate alert and we’ll let you know when it hits your target. 1 USD = 376.951 AMD Feb 13, 2026, 19:39 UTC USD to AMD Chart Compare and save When you compare Xe to leading banks and providers, the difference is clear. Bank-beating rates and no hidden fees mean more value on every transfer. Provider Recipient gets Sending 20,000.00 GBP 26,160.00 USD +399.33 USD 25,760.66 USD -399.33 USD Exchange rate (1GBP → USD) 1.308000 1.289000 Transfer fee 0 GBP 15.00 GBP Provider Xe Exchange rate 1.308000 Transfer fee 0 GBP Recipient gets 26,160.00 USD +399.33 USD Send with Xe 26,160.00 USD +399.33 USD Provider Nationwide Exchange rate 1.289000 Transfer fee 15.00 GBP Recipient gets 25,760.66 USD -399.33 USD 25,760.66 USD -399.33 USD Rates obtained as of 11/25/2025 The comparison savings are based on a single transfer of GBP 20,000 to USD. Savings are calculated by comparing the exchange rate including margins and fees provided by each bank and Xe on the same day 11/25/2025. The comparison savings provided is true only for the example given and may not include all fees and charges. Different currency exchange amounts, currency types, dates, times, and other individual factors will result in different comparison savings. These results therefore may not be indicative of actual savings and should be used only as a guide. The rate comparison chart is updated quarterly. Manage your money and currencies on the go Popular US Dollar (USD) pairings International money transfers done right Xe makes international money transfers simple. See all pricing upfront, get reliable delivery estimates, and track every transfer in real time. Send to 190+ countries in 130+ currencies. Send money destinations Connecting the world Send money to United Arab Emirates Send money to Albania Send money to Argentina Send money to Australia Send money to Bosnia and Herzegovina Send money to Belgium Send money to Barbados Send money to Bangladesh Send money to Bulgaria Send money to Bahrain Send money to Brunei Darussalam Send money to Bahamas More live USD currency charts Euro 1 USD equals to 0.842378 EUR -0.0037 (0.44%) Weekly British Pound 1 USD equals to 0.732689 GBP -0.0017 (0.24%) Weekly Japanese Yen 1 USD equals to 152.751 JPY -4.3635 (2.78%) Weekly Canadian Dollar 1 USD equals to 1.36102 CAD -0.0048 (0.35%) Weekly Australian Dollar 1 USD equals to 1.41260 AUD -0.0125 (0.88%) Weekly Swiss Franc 1 USD equals to 0.767904 CHF -0.0075 (0.97%) Weekly Chinese Yuan Renminbi 1 USD equals to 6.90878 CNY -0.0293 (0.42%) Weekly South African Rand 1 USD equals to 15.9452 ZAR -0.0938 (0.58%) Weekly Currency information Learn more about the USD and AMD USD - US Dollar Our currency rankings show that the most popular US Dollar exchange rate is the USD to USD rate. The currency code for US Dollars is USD. The currency symbol is $. AMD - Armenian Dram Our currency rankings show that the most popular Armenian Dram exchange rate is the AMD to USD rate. The currency code for Armenian Drams is AMD. The currency symbol is ֏. Xe for business Global business payments simplified. Whether you need to make cross-border payments or FX risk management solutions, we’ve got you covered. Schedule international transfers across 130 currencies in 190+ countries. USD to AMD frequently asked questions What is the USD to AMD exchange rate today? As of 19:39 UTC, the mid-market USD to AMD rate is $1 = ֏376.95. The mid-market rate is the midpoint between buy and sell prices in global currency markets. To see how much this transfer would be with Xe, visit our send money page . How much is 1 USD in AMD? 1 USD equals 376.95 AMD using the current mid-market exchange rate of ֏376.95. If you're looking to send 1 USD to AMD, check if Xe could save you money on your transfer. Get a live quote on our send money page and see the full price upfront. How do I convert currencies? To convert currencies, visit the top our Currency Converter , select your preferred currency pair, enter your amount, and view the live mid-market rate. Can I set rate alerts with Xe? Yes. You can set up a USD to AMD rate alert on our rate alerts page or within the Xe app . Get a notification when your desired rate is reached and stay on top of currency shifts. Can I send 1 USD to AMD with Xe? To see how much a 1 USD to AMD transfer would cost with Xe, visit our send money page and enter your details into the live quoter. You will get real-time exchange rates, estimated delivery times, and all fees shown upfront before you start your transfer.",
+      "publish_date": "2025-11-06",
+      "source_name": "xe.com",
+      "chunks": [
+        {
+          "len": 2500
+        },
+        {
+          "len": 2499
+        },
+        {
+          "len": 131
+        }
+      ],
+      "chunk_summaries": [
+        {
+          "chunk_takeaways": [
+            "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        },
+        {
+          "chunk_takeaways": [
+            "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        },
+        {
+          "chunk_takeaways": [
+            "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        }
+      ],
+      "source_summary": {
+        "source_title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate - Xe",
+        "url": "https://www.xe.com/en/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+        "summary_bullets": [
+          "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US...",
+          "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US...",
+          "Get the latest 1 US Dollar to Armenian Dram rate for FREE with the original Universal Currency Converter. Set rate alerts for USD to AMD and learn more about US..."
+        ],
+        "key_numbers": [
+          "1",
+          "1",
+          "1"
+        ],
+        "what_it_means": [],
+        "confidence": "low"
+      },
+      "match": {
+        "ok": true,
+        "score": 0.75,
+        "reason": "lexical_match"
+      }
+    }
+  ]
+}

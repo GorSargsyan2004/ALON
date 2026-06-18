@@ -1,0 +1,245 @@
+{
+  "payload": {
+    "query": "USD to AMD exchange rate",
+    "results": [
+      {
+        "title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate",
+        "snippet": "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD exchange rates today. Convert US Dollar to Armenian Dram. Rate information of USD / AMD currency pair.",
+        "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+        "source_name": "xe.com",
+        "date": null
+      },
+      {
+        "title": "500 USD to AMD Exchange Rate : Convert United States Dollars to ...",
+        "snippet": "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwacha. 1 USD = USD . Mid-market exchange rate at 00:00.",
+        "url": "https://www.transfergo.com/currency-converter/usd-to-amd?amount=500",
+        "source_name": "transfergo.com",
+        "date": null
+      },
+      {
+        "title": "USD to AMD Exchange Rate History for 2024",
+        "snippet": "The highest US Dollar to Armenian Dram exchange rate in 2024 was 1 USD = 406.43 AMD .",
+        "url": "https://www.exchange-rates.org/exchange-rate-history/usd-amd-2024",
+        "source_name": "exchange-rates.org",
+        "date": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate",
+        "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+        "publish_date": "2025-11-06",
+        "source_name": "xe.com",
+        "source_summary": {
+          "source_title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate",
+          "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+          "summary_bullets": [
+            "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex...",
+            "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex...",
+            "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex..."
+          ],
+          "key_numbers": [
+            "1.00",
+            "377.68402326",
+            "22",
+            "52",
+            "1.00",
+            "377.68402326"
+          ],
+          "what_it_means": [],
+          "confidence": "low"
+        }
+      },
+      {
+        "title": "500 USD to AMD Exchange Rate : Convert United States Dollars to ...",
+        "url": "https://www.transfergo.com/currency-converter/usd-to-amd?amount=500",
+        "publish_date": "2025-10-14",
+        "source_name": "transfergo.com",
+        "source_summary": {
+          "source_title": "500 USD to AMD Exchange Rate : Convert United States Dollars to ...",
+          "url": "https://www.transfergo.com/currency-converter/usd-to-amd?amount=500",
+          "summary_bullets": [
+            "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwach...",
+            "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwach..."
+          ],
+          "key_numbers": [
+            "500",
+            "500"
+          ],
+          "what_it_means": [],
+          "confidence": "low"
+        }
+      }
+    ],
+    "engine": "ddgs",
+    "provider": "local",
+    "pipeline_version": 3,
+    "cache": {
+      "hit": false,
+      "age_sec": 0,
+      "path": "C:\\Users\\PC\\Documents\\AI\\ALON\\data\\cache\\web\\499e138dfc6019de170dffed4e252334a4541413ce2e91ea9b9dfb343eb8fbeb.json",
+      "ttl_sec": 0
+    },
+    "cache_hit": false,
+    "ts": 1771240459,
+    "metrics": {
+      "sources_fetched": 2,
+      "sources_checked": 2,
+      "sources_matched": 2,
+      "answer_found": true,
+      "chars_per_page": [
+        5131,
+        4141
+      ],
+      "chunks_per_page": [
+        3,
+        2
+      ],
+      "total_chunks": 5,
+      "llm_calls": 0,
+      "truncations": 0,
+      "timing_ms": {
+        "search": 2645,
+        "fetch": 58851,
+        "map": 0,
+        "reduce": 0,
+        "final": 4073,
+        "fetch_map_reduce": 58851
+      }
+    },
+    "final_answer": {
+      "answer_spoken": "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD exchange rates today. Convert US Dollar to Armenian Dram. Rate information of USD...",
+      "answer_display": "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD exchange rates today. Convert US Dollar to Armenian Dram. Rate information of USD...",
+      "sources": [
+        {
+          "title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate",
+          "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=AMD"
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+      "title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate",
+      "snippet": "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD exchange rates today. Convert US Dollar to Armenian Dram. Rate information of USD / AMD currency pair.",
+      "text": "1 USD to AMD - Convert US Dollars to Armenian Drams Xe currency converter From To 1.00 USD = 376.38 292893 AMD Mid-market rate at 11:12 UTC We use the mid-market rate for our Converter. This is for informational purposes only. You won’t receive this rate when sending money. Login to view send rates Did you know you can send money abroad with Xe? USD to AMD exchange rates today USD to AMD chart See your 1 USD in motion. Our live USD to AMD chart tracks 12 months of real-time, mid-market rates and shows exactly how much your money was worth at any point in time. Want to know when the rate moves in your favor? Set a rate alert and we’ll let you know when it hits your target. 1 USD = 376.383 AMD Feb 16, 2026, 11:12 UTC USD to AMD Chart Compare and save When you compare Xe to leading banks and providers, the difference is clear. Bank-beating rates and no hidden fees mean more value on every transfer. Provider Recipient gets Sending 20,000.00 GBP 26,160.00 USD +399.33 USD 25,760.66 USD -399.33 USD Exchange rate (1GBP → USD) 1.308000 1.289000 Transfer fee 0 GBP 15.00 GBP Provider Xe Exchange rate 1.308000 Transfer fee 0 GBP Recipient gets 26,160.00 USD +399.33 USD Send with Xe 26,160.00 USD +399.33 USD Provider Nationwide Exchange rate 1.289000 Transfer fee 15.00 GBP Recipient gets 25,760.66 USD -399.33 USD 25,760.66 USD -399.33 USD Rates obtained as of 11/25/2025 The comparison savings are based on a single transfer of GBP 20,000 to USD. Savings are calculated by comparing the exchange rate including margins and fees provided by each bank and Xe on the same day 11/25/2025. The comparison savings provided is true only for the example given and may not include all fees and charges. Different currency exchange amounts, currency types, dates, times, and other individual factors will result in different comparison savings. These results therefore may not be indicative of actual savings and should be used only as a guide. The rate comparison chart is updated quarterly. Manage your money and currencies on the go Popular US Dollar (USD) pairings International money transfers done right Xe makes international money transfers simple. See all pricing upfront, get reliable delivery estimates, and track every transfer in real time. Send to 190+ countries in 130+ currencies. Send money destinations Connecting the world Send money to United Arab Emirates Send money to Albania Send money to Argentina Send money to Australia Send money to Bosnia and Herzegovina Send money to Belgium Send money to Barbados Send money to Bangladesh Send money to Bulgaria Send money to Bahrain Send money to Brunei Darussalam Send money to Bahamas More live USD currency charts Euro 1 USD equals to 0.842926 EUR +0.0004 (0.05%) Weekly British Pound 1 USD equals to 0.732814 GBP -0.0004 (0.05%) Weekly Japanese Yen 1 USD equals to 153.521 JPY -2.9476 (1.88%) Weekly Canadian Dollar 1 USD equals to 1.36207 CAD -0.0013 (0.10%) Weekly Australian Dollar 1 USD equals to 1.41268 AUD -0.0086 (0.60%) Weekly Swiss Franc 1 USD equals to 0.770120 CHF -0.0014 (0.18%) Weekly Chinese Yuan Renminbi 1 USD equals to 6.90858 CNY -0.0148 (0.21%) Weekly South African Rand 1 USD equals to 15.9610 ZAR -0.0606 (0.38%) Weekly Currency information Learn more about the USD and AMD USD - US Dollar Our currency rankings show that the most popular US Dollar exchange rate is the USD to USD rate. The currency code for US Dollars is USD. The currency symbol is $. AMD - Armenian Dram Our currency rankings show that the most popular Armenian Dram exchange rate is the AMD to USD rate. The currency code for Armenian Drams is AMD. The currency symbol is ֏. Xe for business Global business payments simplified. Whether you need to make cross-border payments or FX risk management solutions, we’ve got you covered. Schedule international transfers across 130 currencies in 190+ countries. USD to AMD frequently asked questions What is the USD to AMD exchange rate today? As of 11:12 UTC, the mid-market USD to AMD rate is $1 = ֏376.38. The mid-market rate is the midpoint between buy and sell prices in global currency markets. To see how much this transfer would be with Xe, visit our send money page . How much is 1 USD in AMD? 1 USD equals 376.38 AMD using the current mid-market exchange rate of ֏376.38. If you're looking to send 1 USD to AMD, check if Xe could save you money on your transfer. Get a live quote on our send money page and see the full price upfront. How do I convert currencies? To convert currencies, visit the top our Currency Converter , select your preferred currency pair, enter your amount, and view the live mid-market rate. Can I set rate alerts with Xe? Yes. You can set up a USD to AMD rate alert on our rate alerts page or within the Xe app . Get a notification when your desired rate is reached and stay on top of currency shifts. Can I send 1 USD to AMD with Xe? To see how much a 1 USD to AMD transfer would cost with Xe, visit our send money page and enter your details into the live quoter. You will get real-time exchange rates, estimated delivery times, and all fees shown upfront before you start your transfer.",
+      "publish_date": "2025-11-06",
+      "source_name": "xe.com",
+      "chunks": [
+        {
+          "len": 2500
+        },
+        {
+          "len": 2499
+        },
+        {
+          "len": 131
+        }
+      ],
+      "chunk_summaries": [
+        {
+          "chunk_takeaways": [
+            "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        },
+        {
+          "chunk_takeaways": [
+            "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        },
+        {
+          "chunk_takeaways": [
+            "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        }
+      ],
+      "source_summary": {
+        "source_title": "1 USD to AMD - US Dollars to Armenian Drams Exchange Rate",
+        "url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=AMD",
+        "summary_bullets": [
+          "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex...",
+          "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex...",
+          "1.00 USD = 377.68402326 AMD . Mid-market rate at 22:52 UTC. We use the mid-market rate for our Converter. This is for informational purposes only. USD to AMD ex..."
+        ],
+        "key_numbers": [
+          "1.00",
+          "377.68402326",
+          "22",
+          "52",
+          "1.00",
+          "377.68402326"
+        ],
+        "what_it_means": [],
+        "confidence": "low"
+      },
+      "match": {
+        "ok": true,
+        "score": 1.0,
+        "reason": "lexical_match"
+      }
+    },
+    {
+      "url": "https://www.transfergo.com/currency-converter/usd-to-amd?amount=500",
+      "title": "500 USD to AMD Exchange Rate : Convert United States Dollars to ...",
+      "snippet": "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwacha. 1 USD = USD . Mid-market exchange rate at 00:00.",
+      "text": "TransferGo 500 USD to AMD exchange rates Amount Convert to 1 USD = USD Mid-market exchange rate at 00:00 Live USD to AMD rates As of 1 min ago Mid market rate Exchange rate Exchange rate USD to AMD Exchange rate AMD to USD Statistics Looking to transfer United States Dollars to Armenian Drams? You can always count on TransferGo! Competitive foreign exchange rates Find the best rates directly on our app—you don’t have to go looking for them! 8 million+ customers and counting Join a community of millions of happy customers using TransferGo to send money home. Safe, secure, seamless We’re regulated by UK and EU law, with end-to-end encryption to keep your money and data safe. Don’t just take our word for it… Here’s what our users say about sending money home with TransferGo Really good service! “TransferGo contacted me directly when there was a problem, and they solved it quickly. I made an international transfer in just a couple of hours.” “Lovely company and competitive rates” “Transfers are fast and there are no charges. Most transfers are free! I will be recommending the platform to all Nigerians.” “Very good service” “I sent money to my other bank account and received it in seconds. I’ve recommended it to all my friends. Good job!” How can I convert United States Dollars to Armenian Drams with TransferGo? 1 Choose the amount and currency Send money to over 160 countries around the world 2 Add the receiver’s details You can send money using cards, bank accounts and payment links 3 Pay for the transfer … and your money will be on its way! How does the currency converter work? Our currency converter tool allows you to convert hundreds of currency pairs fast. All you need to do is select your currencies, input the amount and click ‘Convert’ and we’ll show you how much your money is worth based on live foreign currency exchange rates. We’ll then use this real exchange rate when you send money abroad using TransferGo. What is TransferGo? TransferGo is the easy way to send money around the world in just a few minutes. Founded in 2012, TransferGo serves over 8 million customers in more than 160 countries worldwide. Our aim is to provide more accessible financial services to migrants, making international money transfers cheaper, simpler and faster. Guides and Resources How to send money? Learn how TransferGo simplifies personal money transfers and business payments with fast, secure, and affordable services. About TransferGo Everything you need to know about the company that sends your money home. Resources & Articles From help with sending and saving money to travel guides, career advice and stories from around the world. Join the 8 million people who make better transfers Frequently Asked Questions Exchange rates change all the time. At TransferGo we always try to offer the best rates, and we let you know when the rates are especially good. There are always fluctuations in exchange rates. Whether today is a good day to buy Armenian Drams with United States Dollars depends on many factors including economic indicators and market dynamics. When you use TransferGo, you can rest assured that we’ll always try to offer the best USD to AMD exchange rate. Exchange rates fluctuate as a result of various economic factors. For the most accurate information, it’s best to check a financial news source. Central banks also publish historical data on exchange rates.’ It is difficult to predict the future strength of the Armenian Dram as it depends on various economic, political and market factors. Economic growth, monetary policy, inflation rates, political stability, global economic conditions, current account balance, interest rates and market sentiment all play a role in the strength of a currency. The United States Dollar (USD) is expected to remain strong, driven by a robust economic performance and potential Federal Reserve policy adjustments. Although some fluctuations are likely, the Dollar’s safe-haven status and comparative economic stability support its strength. Analysts project continued resilience, with potential impacts from interest rate decisions and inflation trends.",
+      "publish_date": "2025-10-14",
+      "source_name": "transfergo.com",
+      "chunks": [
+        {
+          "len": 2500
+        },
+        {
+          "len": 1640
+        }
+      ],
+      "chunk_summaries": [
+        {
+          "chunk_takeaways": [
+            "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwach..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        },
+        {
+          "chunk_takeaways": [
+            "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwach..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        }
+      ],
+      "source_summary": {
+        "source_title": "500 USD to AMD Exchange Rate : Convert United States Dollars to ...",
+        "url": "https://www.transfergo.com/currency-converter/usd-to-amd?amount=500",
+        "summary_bullets": [
+          "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwach...",
+          "Convert 500 USD to AMD with the TransferGo currency converter. Send United States Dollars and your receiver will get Armenian Drams in minutes.ZMW Zambian Kwach..."
+        ],
+        "key_numbers": [
+          "500",
+          "500"
+        ],
+        "what_it_means": [],
+        "confidence": "low"
+      },
+      "match": {
+        "ok": true,
+        "score": 1.0,
+        "reason": "lexical_match"
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "payload": {
+    "query": "formula of celsius to fahrenheit",
+    "results": [
+      {
+        "title": "Celsius to Fahrenheit Converter - Calculatorway",
+        "snippet": "Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit . The formula of Celsius to Fahrenheit .",
+        "url": "https://www.calculatorway.com/celsius-to-fahrenheit-converter/",
+        "source_name": "calculatorway.com",
+        "date": null
+      },
+      {
+        "title": "Temperature Conversion Calculator: Celsius to Fahrenheit",
+        "snippet": "Here is the temperature conversion formula and chart to change Fahrenheit to Celsius or Celsius to Fahrenheit . We also have a Temperature Conversion Calculator for those who just want an answer!",
+        "url": "https://www.almanac.com/temperature-conversion-celsius-fahrenheit",
+        "source_name": "almanac.com",
+        "date": null
+      },
+      {
+        "title": "Celsius to Fahrenheit conversion : ºC to ºF calculator",
+        "snippet": "Celsius to Fahrenheit conversion is probably the most confusing conversion there is, but a simple °C to °F conversion is actually quite easy – just double the °C figure and add 30. This should be reasonably accurate for weather temperatures.",
+        "url": "https://www.metric-conversions.org/temperature/celsius-to-fahrenheit.htm",
+        "source_name": "metric-conversions.org",
+        "date": null
+      },
+      {
+        "title": "How to Convert Celsius to Fahrenheit : Formula & Conversion Table",
+        "snippet": "The 1.8 in the Celsius to Fahrenheit formula is shorthand for the fraction 9/5 (since 9 divided by 5 equals 1.8). Converting the fraction to a decimal helps you complete the formula a bit more easily and quickly.",
+        "url": "https://www.wikihow.com/Convert-Celsius-(°C)-to-Fahrenheit-(°F)",
+        "source_name": "ikihow.com",
+        "date": null
+      },
+      {
+        "title": "Celsius Formula - What is Celsius Formula ? Examples",
+        "snippet": "The celsius formula helps in converting Celcius to Fahrenheit . Lets us learn more about the Celsius formula and solve a few examples to understand the concept better.",
+        "url": "https://www.cuemath.com/celsius-formula/",
+        "source_name": "cuemath.com",
+        "date": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Celsius to Fahrenheit Converter - Calculatorway",
+        "url": "https://www.calculatorway.com/celsius-to-fahrenheit-converter/",
+        "publish_date": "2026-02-07",
+        "source_name": "calculatorway.com",
+        "source_summary": {
+          "source_title": "Celsius to Fahrenheit Converter - Calculatorway",
+          "url": "https://www.calculatorway.com/celsius-to-fahrenheit-converter/",
+          "summary_bullets": [
+            "Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit . The formula of Celsius to Fahrenheit ."
+          ],
+          "key_numbers": [],
+          "what_it_means": [],
+          "confidence": "low"
+        }
+      },
+      {
+        "title": "Temperature Conversion Calculator: Celsius to Fahrenheit",
+        "url": "https://www.almanac.com/temperature-conversion-celsius-fahrenheit",
+        "publish_date": null,
+        "source_name": "almanac.com",
+        "source_summary": {
+          "source_title": "Temperature Conversion Calculator: Celsius to Fahrenheit",
+          "url": "https://www.almanac.com/temperature-conversion-celsius-fahrenheit",
+          "summary_bullets": [
+            "Here is the temperature conversion formula and chart to change Fahrenheit to Celsius or Celsius to Fahrenheit . We also have a Temperature Conversion Calculator..."
+          ],
+          "key_numbers": [],
+          "what_it_means": [],
+          "confidence": "low"
+        }
+      }
+    ],
+    "engine": "ddgs",
+    "pipeline_version": 2,
+    "cache": {
+      "hit": false,
+      "age_sec": 0,
+      "path": "C:\\Users\\PC\\Documents\\AI\\ALON\\data\\cache\\web\\a1a516b3c25c670158d130105526f5473a552caa3c3ffa2030dc85038ab84c2f.json",
+      "ttl_sec": 0
+    },
+    "cache_hit": false,
+    "ts": 1771012750,
+    "metrics": {
+      "sources_fetched": 1,
+      "sources_checked": 2,
+      "sources_matched": 2,
+      "answer_found": true,
+      "chars_per_page": [
+        937,
+        195
+      ],
+      "chunks_per_page": [
+        1,
+        1
+      ],
+      "total_chunks": 2,
+      "llm_calls": 0,
+      "truncations": 0,
+      "timing_ms": {
+        "search": 1533,
+        "fetch": 41045,
+        "map": 0,
+        "reduce": 0,
+        "final": 4061,
+        "fetch_map_reduce": 41045
+      }
+    },
+    "final_answer": {
+      "answer_spoken": "Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit . The formula of Celsius to Fahrenheit .",
+      "answer_display": "Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit . The formula of Celsius to Fahrenheit .",
+      "sources": [
+        {
+          "title": "Celsius to Fahrenheit Converter - Calculatorway",
+          "url": "https://www.calculatorway.com/celsius-to-fahrenheit-converter/"
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.calculatorway.com/celsius-to-fahrenheit-converter/",
+      "title": "Celsius to Fahrenheit Converter - Calculatorway",
+      "snippet": "Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit . The formula of Celsius to Fahrenheit .",
+      "text": "Celsius Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit. The formula of Celsius to Fahrenheit ºF = (ºC x 9 / 5) + 32 ºF = (ºC x 1.8) + 32 ºF = Fahrenheit Temperature Scale ºC = Celsius Temperature Scale Example Example 1:-How to convert 1 degree Celsius to Fahrenheit? solution:- step by step solve Celsius to Fahrenheit. Step 1:- ºF = (°C x 9 / 5) + 32 Step 2:- ºF = (1 x 1.8) + 32 Step 3:- ºF = 1.8 + 32 = 33.80 Step 4:- 1 celsius (°C) = 33.8 Fahrenheit (ºF) 1 degree Celsius is equal to 33.8 degrees Fahrenheit Example 2: How to convert 5 degrees Celsius to Fahrenheit temperature scales? solution:- step by step solve 5 Celsius Scales to Fahrenheit. Step 1:- ºF = (°C x 9 / 5) + 32 Step 2:- ºF = (5 x 1.8) + 32 Step 3:- ºF = 9 + 32 = 41.00 Step 4:- 5 celsius (°C) = 41 Fahrenheit (ºF) 5 degrees Celsius is equal to 41 degrees Fahrenheit Celsius to Fahrenheit Table",
+      "publish_date": "2026-02-07",
+      "source_name": "calculatorway.com",
+      "chunks": [
+        {
+          "len": 937
+        }
+      ],
+      "chunk_summaries": [
+        {
+          "chunk_takeaways": [
+            "Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit . The formula of Celsius to Fahrenheit ."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        }
+      ],
+      "source_summary": {
+        "source_title": "Celsius to Fahrenheit Converter - Calculatorway",
+        "url": "https://www.calculatorway.com/celsius-to-fahrenheit-converter/",
+        "summary_bullets": [
+          "Celsius to Fahrenheit Converter (ºC to ºF)? Enter your temperatures in Celsius and get the temperature in Fahrenheit . The formula of Celsius to Fahrenheit ."
+        ],
+        "key_numbers": [],
+        "what_it_means": [],
+        "confidence": "low"
+      },
+      "match": {
+        "ok": true,
+        "score": 1.0,
+        "reason": "lexical_match"
+      }
+    },
+    {
+      "url": "https://www.almanac.com/temperature-conversion-celsius-fahrenheit",
+      "title": "Temperature Conversion Calculator: Celsius to Fahrenheit",
+      "snippet": "Here is the temperature conversion formula and chart to change Fahrenheit to Celsius or Celsius to Fahrenheit . We also have a Temperature Conversion Calculator for those who just want an answer!",
+      "text": "",
+      "publish_date": null,
+      "source_name": "almanac.com",
+      "chunks": [
+        {
+          "len": 195
+        }
+      ],
+      "chunk_summaries": [
+        {
+          "chunk_takeaways": [
+            "Here is the temperature conversion formula and chart to change Fahrenheit to Celsius or Celsius to Fahrenheit . We also have a Temperature Conversion Calculator..."
+          ],
+          "key_facts": [],
+          "notable_quotes": [],
+          "topics": []
+        }
+      ],
+      "source_summary": {
+        "source_title": "Temperature Conversion Calculator: Celsius to Fahrenheit",
+        "url": "https://www.almanac.com/temperature-conversion-celsius-fahrenheit",
+        "summary_bullets": [
+          "Here is the temperature conversion formula and chart to change Fahrenheit to Celsius or Celsius to Fahrenheit . We also have a Temperature Conversion Calculator..."
+        ],
+        "key_numbers": [],
+        "what_it_means": [],
+        "confidence": "low"
+      },
+      "match": {
+        "ok": true,
+        "score": 1.0,
+        "reason": "lexical_match"
+      }
+    }
+  ]
+}

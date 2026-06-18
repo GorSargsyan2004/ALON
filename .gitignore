@@ -1,0 +1,10 @@
+# Virtual Environments (Active and Backups)
+.venv/
+.venv_backup_*/
+
+# AI Models and Weights
+models/
+
+# Python caching
+__pycache__/
+*.pyc
